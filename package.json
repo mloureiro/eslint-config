@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config",
+  "version": "0.1.0",
+  "description": "My code style choice",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mloureiro/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "code",
+    "standards",
+    "lint",
+    "js"
+  ],
+  "author": "mloureiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mloureiro/eslint-config/issues"
+  },
+  "homepage": "https://github.com/mloureiro/eslint-config#readme"
+}
